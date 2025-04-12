@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "709527625893",
+    "project_id": "ak-chat-35c3c",
+    "storage_bucket": "ak-chat-35c3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709527625893:android:c76d810ea9280095d12d4c",
+        "android_client_info": {
+          "package_name": "com.example.kri_dhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709527625893-l0ptc0fpm2cg5ddlfl7e479kk9ninotu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kri_dhan",
+            "certificate_hash": "c71176daed075c6c68569e5e36f0f129843f62ca"
+          }
+        },
+        {
+          "client_id": "709527625893-iap5lro07bvc3hodc5t64uc1ch5kqhdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKVNr1v6taSKrRMOc0yeAM1hOddzAo9Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709527625893-iap5lro07bvc3hodc5t64uc1ch5kqhdt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709527625893-m290rgg9i5seeqpcq1v5859orv17nrr5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kriDhan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
